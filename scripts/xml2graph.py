@@ -1,6 +1,5 @@
 from xml.etree import ElementTree as ET
 from neo4j import GraphDatabase
-import os
 import sys
 
 class Xml2Graph():

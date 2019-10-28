@@ -1,6 +1,3 @@
-import os
-import os.path
-from os.path import isdir, isfile
 import sys
 import argparse
 from scripts.getxmlRoot import GetxmlRoot
