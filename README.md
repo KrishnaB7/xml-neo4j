@@ -3,9 +3,14 @@ Stores XML files into XML like structure in Neo4j graph database
 
 
 ## Folder Structure
-```.
+```
+.
 ├── LICENSE
 ├── README.md
+├── examples
+│   ├── catalog.xml
+│   └── employees.xml
+├── requirements.txt
 ├── scripts
 │   ├── __init__.py
 │   ├── getxmlRoot.py
